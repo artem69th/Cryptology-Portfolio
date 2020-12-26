@@ -1,10 +1,5 @@
 package com.company;
 
-import com.company.enums.Euclid;
-import com.company.tasks.*;
-
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
 //        new Task1().execute(182537, 651);
